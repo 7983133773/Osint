@@ -1,6 +1,0 @@
-{
-  "BOT_TOKEN": "9258364674:AAFEnbNWiZpBTtD1rzxShNYDGpmAs9vWzCI",
-  "BOT_USERNAME": "AyushOsint_Robot",
-  "WEBHOOK_URL": "https://ayush-osint-bomber.onrender.com",
-  "PORT": 8080
-}
